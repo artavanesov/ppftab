@@ -3,7 +3,7 @@
 
 ## Progress
 - [x] Chapter 1: Getting Started: The Game Over Program.
-- [ ] Chapter 2: Types, Variables, and Simple I/O: The Useless Trivia Program.
+- [x] Chapter 2: Types, Variables, and Simple I/O: The Useless Trivia Program.
 - [ ] Chapter 3: Branching, while Loops, and Program Planning: The Guess My Number Game.
 - [ ] Chapter 4: for Loops, Strings, and Tuples: The Word Jumble Game.
 - [ ] Chapter 5: Lists and Dictionaries: The Hangman Game.
